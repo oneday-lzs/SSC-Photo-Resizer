@@ -1,7 +1,7 @@
 import { Language } from './types';
 
 export const SITE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL || 'https://upscphotoresizer.com';
+  process.env.NEXT_PUBLIC_SITE_URL || 'https://www.pinobuild.com';
 
 export const SITE_NAME = 'UPSC Photo & Signature Resizer';
 
